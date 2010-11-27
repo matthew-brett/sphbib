@@ -1,0 +1,19 @@
+.. [colu92]
+   Columbus, Christopher. (1492) *How {I} Discovered {America}*. 
+   Barcelona: Hispanic Press. 
+
+.. [gree00]
+   Green, R J, U P Fred, and W P Norbert. 1900. Things that Go Bump in 
+   the Night. *Psych. Today* 46, 345-678. 
+
+.. [jame76]
+   James, Kelly, George Harris, Jr, and Wilby Wollops. 1776. {American} 
+   Independence and Magnetism. *Revol. Tracts* 32, 34-55. 
+
+.. [phil99]
+   Phillips, T P. 1999. Possible Influence of the Magnetosphere on 
+   {American} History. *J. Oddball Res.* 98, 1000-1003. 
+
+.. [smit54]
+   Smith, J G, and H K Weston. 1954. Nothing Particular in this Year's 
+   History. *J. Geophys. Res.* 2, 14-15. 
